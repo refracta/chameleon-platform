@@ -21,7 +21,7 @@ It supports the ability to compare the execution results of multiple AI models, 
 
 ## Project Structure
 
-![project structure](https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/0f17c5e3-8ce6-4131-a021-6c6817ad7bbd)
+![project structure](https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/f3a1f667-e8bb-4f67-898c-ebf48acf6578)
 
 ## How to communicate
 
