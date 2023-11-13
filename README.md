@@ -9,7 +9,7 @@ It supports the ability to compare the execution results of multiple AI models, 
 
 |Create Model|
 |---|
-|<img src="./assets/upload.jpg" height="400px">|
+|<img src="./assets/create.jpg" height="400px">|
 
 |Execute Model|
 |---|
