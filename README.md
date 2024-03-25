@@ -27,22 +27,6 @@ It supports the ability to compare the execution results of multiple AI models, 
 
 ![How to communicate](./assets/communication.png)
 
-`__tests__`:
-
-`controller`:
-
-`entities`:
-
-`platform`:
-
-`server`:
-
-`service`:
-
-`types`:
-
-`utils`:
-
 ## Prerequisites
 * Linux envrionment
 * Node.js 11.x, `packages.json` dependencies
